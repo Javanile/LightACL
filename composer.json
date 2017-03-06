@@ -11,14 +11,14 @@
             "url": "https://github.com/Javanile/LightACL\n"
         }
     ],
-    "autoload": {
+    "autoload-dev": {
         "psr4": {
             "Javanile\\LightACL\\Tests\\": "tests"
         }
     },
-    "autoload-dev": {
+    "autoload": {
         "psr4": {
-            "Javanile\\LightACL\\Tests\\": "tests"
+            "Javanile\\LightACL\\": "src"
         }
     }
 }
