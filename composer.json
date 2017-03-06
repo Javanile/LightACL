@@ -15,5 +15,10 @@
         "psr4": {
             "Javanile\\LightACL\\Tests\\": "tests"
         }
+    },
+    "autoload-dev": {
+        "psr4": {
+            "Javanile\\LightACL\\Tests\\": "tests"
+        }
     }
 }
