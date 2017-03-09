@@ -4,7 +4,7 @@ namespace Javanile\LightACL\Tests;
 
 use Javanile\Producer;
 use PHPUnit\Framework\TestCase;
-use namespace Javanile\LightACL\LightACL;
+use Javanile\LightACL\LightACL;
 
 Producer::addPsr4(['Javanile\LightACL\\Tests\\' => __DIR__]);
 
