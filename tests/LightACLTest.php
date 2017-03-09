@@ -8,10 +8,8 @@ use Javanile\LightACL\LightACL;
 
 Producer::addPsr4([
     'Javanile\LightACL\\' => __DIR__.'/../src',
-    'Javanile\LightACL\\Tests\\' => __DIR__
+    'Javanile\LightACL\\Tests\\' => __DIR__,
 ]);
-
-Producer::addPsr4(['' => __DIR__]);
 
 final class LightACLTest extends TestCase
 {

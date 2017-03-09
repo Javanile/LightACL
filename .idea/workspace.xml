@@ -41,8 +41,8 @@
       <file leaf-file-name="PackageClassTest.php.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repository/Producer/tpl/PackageClassTest.php.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="192">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,8 +51,8 @@
       <file leaf-file-name="LightACLTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/LightACLTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="72">
+              <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -159,10 +159,6 @@
               <option name="myItemId" value="repository" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Producer" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -266,7 +262,7 @@
       <workItem from="1488802842012" duration="3464000" />
       <workItem from="1488816711438" duration="25000" />
       <workItem from="1488875627698" duration="612000" />
-      <workItem from="1489082442436" duration="3956000" />
+      <workItem from="1489082442436" duration="4005000" />
     </task>
     <task id="LOCAL-00001" summary="new ign">
       <created>1488804433303</created>
@@ -279,7 +275,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10367000" />
+    <option name="totallyTimeSpent" value="10416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-10" width="1366" height="778" extended-state="6" />
@@ -325,8 +321,8 @@
         <state relative-caret-position="396">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1489101646409" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489101646409" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489101930099" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489101930099" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -376,8 +372,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489101646409" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489101646409" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489101930099" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489101930099" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -387,8 +383,8 @@
         <state relative-caret-position="396">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1489101646409" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489101646409" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489101930099" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489101930099" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -595,8 +591,8 @@
         <state relative-caret-position="327">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1489101646409" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489101646409" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489101930099" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489101930099" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -649,14 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/LightACLTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repository/Producer/tpl/PackageClass.php.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -665,10 +653,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/LightACLTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repository/Producer/tpl/PackageClassTest.php.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="192">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
