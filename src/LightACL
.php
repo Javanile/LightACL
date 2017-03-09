@@ -11,12 +11,14 @@
  * @copyright  -
  */
 
-namespace %%NAMESPACE%%;
+namespace Javanile\LightACL
+;
 
 /**
  * Class description.
  */
-class %%NAMESPACE%%
+class Javanile\LightACL
+
 {
     /**
      * Constructor.
