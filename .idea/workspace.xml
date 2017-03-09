@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd9a664-0d3e-4a52-8a68-035a6d51bf4f" name="Default" comment="" />
+    <list default="true" id="5bd9a664-0d3e-4a52-8a68-035a6d51bf4f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php" afterPath="$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +48,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="InitCommand.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="159" column="34" lean-forward="false" selection-start-line="159" selection-start-column="34" selection-end-line="159" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="PublishCommand.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repository/Producer/cmd/PublishCommand.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publish-env.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="publish-env.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repository/Producer/exec/publish-env.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="36">
+              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -103,12 +116,12 @@
         <option value="$PROJECT_DIR$/repository/Producer/tpl/PackageClassTest.php.tpl" />
         <option value="$PROJECT_DIR$/src/LightACL&#10;.php" />
         <option value="$PROJECT_DIR$/repository/Producer/tpl/PackageClass.php.txt" />
-        <option value="$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php" />
         <option value="$PROJECT_DIR$/tests/LightACLTest.php" />
         <option value="$PROJECT_DIR$/repository/Producer/tpl/PackageClassTest.php.txt" />
         <option value="$PROJECT_DIR$/repository/Producer/cmd/PublishCommand.php" />
         <option value="$PROJECT_DIR$/repository/Producer/exec/publish-env.sh" />
         <option value="$PROJECT_DIR$/repository/Producer/src/Producer.php" />
+        <option value="$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php" />
       </list>
     </option>
   </component>
@@ -166,6 +179,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Producer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LightACL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LightACL" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repository" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Producer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tpl" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -272,7 +307,7 @@
       <workItem from="1488802842012" duration="3464000" />
       <workItem from="1488816711438" duration="25000" />
       <workItem from="1488875627698" duration="612000" />
-      <workItem from="1489082442436" duration="4993000" />
+      <workItem from="1489082442436" duration="5720000" />
     </task>
     <task id="LOCAL-00001" summary="new ign">
       <created>1488804433303</created>
@@ -285,7 +320,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11404000" />
+    <option name="totallyTimeSpent" value="12131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-10" width="1366" height="778" extended-state="6" />
@@ -331,8 +366,8 @@
         <state relative-caret-position="396">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1489101988902" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489101988902" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489103663756" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489103663756" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -382,8 +417,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489101988902" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489101988902" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489103663756" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489103663756" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -393,8 +428,8 @@
         <state relative-caret-position="396">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1489101988902" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489101988902" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489103663756" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489103663756" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -601,8 +636,8 @@
         <state relative-caret-position="327">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1489101988902" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489101988902" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489103663756" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489103663756" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -611,14 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="148" column="56" lean-forward="false" selection-start-line="148" selection-start-column="56" selection-end-line="148" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -687,6 +714,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/repository/Producer/exec/publish-env.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/repository/Producer/src/Producer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
@@ -695,10 +730,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/repository/Producer/exec/publish-env.sh">
+    <entry file="file://$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="252">
+          <caret line="159" column="34" lean-forward="false" selection-start-line="159" selection-start-column="34" selection-end-line="159" selection-end-column="34" />
           <folding />
         </state>
       </provider>
