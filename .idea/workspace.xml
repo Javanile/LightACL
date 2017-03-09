@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd9a664-0d3e-4a52-8a68-035a6d51bf4f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/Producer/tpl/PackageClass.php.txt" afterPath="$PROJECT_DIR$/repository/Producer/tpl/PackageClass.php.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/phpunit.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php" afterPath="$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +25,8 @@
             <state relative-caret-position="327">
               <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
-                <marker date="1489083032260" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-                <marker date="1489083032260" expanded="true" signature="179:496" ph="[...]" />
+                <marker date="1489100603186" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+                <marker date="1489100603186" expanded="true" signature="179:496" ph="[...]" />
               </folding>
             </state>
           </provider>
@@ -40,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InitCommand.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="InitCommand.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-483">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="291">
+              <caret line="113" column="33" lean-forward="false" selection-start-line="113" selection-start-column="33" selection-end-line="113" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -63,14 +65,14 @@
       <file leaf-file-name="Producer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repository/Producer/src/Producer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="-468">
               <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PackageClass.php.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PackageClass.php.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repository/Producer/tpl/PackageClass.php.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
@@ -93,13 +95,13 @@
         <option value="$PROJECT_DIR$/repository/Producer/tpl/phpunit.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/repository/Producer/exec/init-env-update.sh" />
-        <option value="$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php" />
         <option value="$PROJECT_DIR$/repository/Producer2/cmd/InitCommand.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/producer" />
         <option value="$PROJECT_DIR$/repository/Producer/tpl/PackageClassTest.php.tpl" />
         <option value="$PROJECT_DIR$/repository/Producer/tpl/PackageClassTest.php.txt" />
         <option value="$PROJECT_DIR$/repository/Producer/tpl/PackageClass.php.txt" />
+        <option value="$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php" />
       </list>
     </option>
   </component>
@@ -153,10 +155,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="repository" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Producer" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -262,7 +260,7 @@
       <workItem from="1488802842012" duration="3464000" />
       <workItem from="1488816711438" duration="25000" />
       <workItem from="1488875627698" duration="612000" />
-      <workItem from="1489082442436" duration="1543000" />
+      <workItem from="1489082442436" duration="2650000" />
     </task>
     <task id="LOCAL-00001" summary="new ign">
       <created>1488804433303</created>
@@ -275,7 +273,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7954000" />
+    <option name="totallyTimeSpent" value="9061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-10" width="1366" height="778" extended-state="6" />
@@ -321,8 +319,8 @@
         <state relative-caret-position="396">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1489083032260" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489083032260" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489100603186" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489100603186" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -372,8 +370,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489083032260" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489083032260" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489100603186" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489100603186" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -383,8 +381,8 @@
         <state relative-caret-position="396">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1489083032260" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489083032260" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489100603186" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489100603186" expanded="true" signature="179:496" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -559,33 +557,9 @@
         <state relative-caret-position="327">
           <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1489083032260" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
-            <marker date="1489083032260" expanded="true" signature="179:496" ph="[...]" />
+            <marker date="1489100603186" expanded="true" signature="0:498" ph="{&quot;name&quot;: &quot;javanile/lightacl\n&quot;...}" />
+            <marker date="1489100603186" expanded="true" signature="179:496" ph="[...]" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/producer">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository/Producer/tpl/PackageClassTest.php.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,14 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-96">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/repository/Producer/src/Producer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -617,6 +583,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/Producer/tpl/PackageClassTest.php.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/Producer/src/Producer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/Producer/cmd/InitCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="113" column="33" lean-forward="false" selection-start-line="113" selection-start-column="33" selection-end-line="113" selection-end-column="33" />
           <folding />
         </state>
       </provider>
