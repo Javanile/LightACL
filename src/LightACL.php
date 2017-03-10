@@ -23,6 +23,5 @@ class LightACL
      */
     public function __construct()
     {
-
     }
 }
