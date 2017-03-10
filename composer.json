@@ -17,9 +17,6 @@
             "Javanile\\LightACL\\Tests\\": "tests"
         }
     },
-    "require": {
-        "javanile/producer": "^0.0.17"
-    },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
         "codeclimate/php-test-reporter": "dev-master"
